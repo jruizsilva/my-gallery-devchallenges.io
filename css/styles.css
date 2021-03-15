@@ -92,6 +92,10 @@ img{
     justify-content: center;
 }
 @media screen and (min-width: 768px){
+    .user__img{
+        width: 156px;
+        height: 156px;
+    }
     .user-info__item{
         height: 67px;
         width: 100px;
